@@ -1,4 +1,4 @@
-### DJ, Musician, Scripter, Master Gardener, Mazda Enthusiast. To thine own self be true.
+### DJ, Musician, Scripter, Master Gardener, Mazda Enthusiast.
 ![](https://raw.githubusercontent.com/DJDevon3/DJDevon3/main/GitHub_BG.png)
 
 <!--
