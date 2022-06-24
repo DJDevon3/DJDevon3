@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello World 👋
+![](https://raw.githubusercontent.com/DJDevon3/DJDevon3/main/GitHub_BG.png)
 
 <!--
 **DJDevon3/DJDevon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
