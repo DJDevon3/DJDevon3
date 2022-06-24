@@ -1,4 +1,4 @@
-### Hello World 👋
+### DJ, Musician, Scripter, Master Gardener, Mazda Enthusiast. To thine own self be true.
 ![](https://raw.githubusercontent.com/DJDevon3/DJDevon3/main/GitHub_BG.png)
 
 <!--
