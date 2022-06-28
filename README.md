@@ -1,4 +1,4 @@
-### DJ, Musician, Scripter, Master Gardener, Mazda Enthusiast.
+### DJ, Musician, Scripter, Certified Master Gardener, Mazda Enthusiast.
 ![](https://raw.githubusercontent.com/DJDevon3/DJDevon3/main/GitHub_BG.png)
 
 <!--
