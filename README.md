@@ -1,9 +1,9 @@
 ### DJ, Musician, Scripter, Certified Master Gardener, Mazda Enthusiast.
 ![](https://raw.githubusercontent.com/DJDevon3/DJDevon3/main/GitHub_BG.png)
 
-- 🌱 I’m currently learning how to custom build microcontroller firmware with circuit python.
+- 🌱 I’m currently learning how to custom build Circuit Python microcontroller firmware with Ubuntu natively within Windows using WSL.
 
-# Projects on my to do list
+# Circuit Python Projects Todo List
 - Update and redesign Adafruit MagTag for openweather 3.0 API
 - Help integrate existing I2C sensors for Adafruitio WipperSnapper
 - Upgrade my simple offline weatherstation with online data
