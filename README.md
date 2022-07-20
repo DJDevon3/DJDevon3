@@ -3,15 +3,16 @@
 
 - 🌱 I’m currently learning how to custom build Circuit Python microcontroller firmware on Ubuntu running natively within Windows using WSL virtualization (no vmware required).
 
-# Circuit Python Projects Todo List
+# Adafruit Circuit Python Project Todo List
 - Update and redesign Adafruit MagTag for openweather 3.0 API
 - Help integrate existing I2C sensors for Adafruitio WipperSnapper
 - Add GPS module to simple offline weatherstation for time updates not dependent on wifi  
 - RP2040-LORA 900mhz mailbox notification using ultrasonic sensor
-- 7" TFT with ESP32-S3 version of my offline/online weatherstation
-- 16 key sequencer custom 808 PCB
-- Full sized PC keyboard with numpad and TFT featherwing PCB
+- 7" TFT (driven by ESP32-S3 feather) version of my offline/online weatherstation
+- 16 key sequencer featherwing PCB
+- Full sized PC keyboard featherwing PCB (with numpad, media keys, and touchscreen TFT)
 - Automated chain driven stepper motor curtain with Alexa integration using IFTTT
+- pneumatic mail slot dick puncher for unwelcomed door to door solicitors
 
 <!--
 **DJDevon3/DJDevon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
