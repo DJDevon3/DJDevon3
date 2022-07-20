@@ -6,7 +6,7 @@
 # Circuit Python Projects Todo List
 - Update and redesign Adafruit MagTag for openweather 3.0 API
 - Help integrate existing I2C sensors for Adafruitio WipperSnapper
-- Upgrade my simple offline weatherstation with online data
+- Add GPS module to simple offline weatherstation for time updates not dependent on wifi  
 - RP2040-LORA 900mhz mailbox notification using ultrasonic sensor
 - 7" TFT with ESP32-S3 version of my offline/online weatherstation
 - 16 key sequencer custom 808 PCB
