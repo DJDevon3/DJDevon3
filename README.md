@@ -1,5 +1,5 @@
 ### DJ, Musician, Scripter, Certified Master Gardener, Mazda Enthusiast.
-[My New Electronics YouTube Channel](https://www.youtube.com/channel/UCx9Em9JRQ8XkFHKhqQ_Sr8w)
+My New Electronics YouTube Channel [Devon's Workshop](https://www.youtube.com/channel/UCx9Em9JRQ8XkFHKhqQ_Sr8w)
 
 ![](https://raw.githubusercontent.com/DJDevon3/DJDevon3/main/GitHub_BG.png)
 
