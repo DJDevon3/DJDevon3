@@ -4,9 +4,10 @@ My New Electronics YouTube Channel [Devon's Workshop](https://www.youtube.com/ch
 ![](https://raw.githubusercontent.com/DJDevon3/DJDevon3/main/GitHub_BG.png)
 
 # Adafruit Circuit Python Project Todo List
-- RP2040-LORA 900mhz mailbox notification using ultrasonic sensor
+- ✔️ RP2040-LORA 900mhz mailbox notification using ultrasonic sensor
 - 7" TFT (driven by ESP32-S3 feather) version of my offline/online weatherstation
-- 16 key sequencer featherwing PCB
+- ✔️ 7-segment display YouTube Subcriber Counter (original by Becky Stern)
+- ✔️ 16 key sequencer featherwing PCB
 - Full sized PC keyboard featherwing PCB (with numpad, media keys, and touchscreen TFT)
 - Automated chain driven stepper motor curtain with Alexa integration using IFTTT
 - pneumatic mail slot dick puncher for unwelcomed door to door solicitors
