@@ -1,7 +1,8 @@
 ### DJ, Musician, Scripter, Certified Master Gardener, Mazda Enthusiast.
 My New Electronics YouTube Channel [Devon's Workshop](https://www.youtube.com/channel/UCx9Em9JRQ8XkFHKhqQ_Sr8w)
 
-### ![My Circuit Python Projects Repo](https://github.com/DJDevon3/My_Circuit_Python_Projects)
+### [My Circuit Python Projects Repo](https://github.com/DJDevon3/My_Circuit_Python_Projects)
+
 ![](https://raw.githubusercontent.com/DJDevon3/DJDevon3/main/GitHub_BG.png)
 
 # Adafruit Circuit Python Project Todo List
