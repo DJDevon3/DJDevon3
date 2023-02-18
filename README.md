@@ -13,6 +13,8 @@ Notable Quick Links:
 ### [My OSHW Open Source PCB Designs](https://oshwlab.com/djdevon3/album/DJDevon3-Electronics)
 - [Bedibrator](https://github.com/DJDevon3/Bedibrator)
 
+### [My 3D Printables Designs](https://www.printables.com/social/469699-treasuredev/about)
+
 # My Circuit Python Project Todo List
 - ✔️ RP2040-LORA 900mhz mailbox notification using ultrasonic sensor
 - 7" TFT (driven by ESP32-S3 feather) version of my offline/online weatherstation
