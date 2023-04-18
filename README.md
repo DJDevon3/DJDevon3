@@ -6,7 +6,7 @@
 Notable Quick Links:
 - [TR-Cowbell](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Boards/raspberrypi/Raspberry%20Pi%20Pico/TR%20Cowbell)
 - [LORA Mail Boombox](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Multi-Board%20Projects/LORA%20Mail%20Boombox)
-- [7-Segment Social Media Tracker](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Boards/espressif/Adafruit%20Feather%20ESP32-S2/7-segment%20Multiplexed%20Social%20Media%20Tracker)
+- [7-Segment Social Media Tracker](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Boards/espressif/Adafruit%20Feather%20ESP32-S2/7-segment%20Multiplexed%20Social)
 - [Halloween Dragon Mask](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Multi-Board%20Projects/Dragon%20Mask%20Halloween%202022)
 - [Simple Offline Weatherstation](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Boards/nrf/Adafruit%20Feather%20Bluefruit%20Sense/Adafruit%203.5%20TFT%20Featherwing/Simple_Offline_Weatherstation)
 - [Simple Online Weatherstation](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Boards/espressif/Adafruit%20Feather%20ESP32-S2/3.5%20TFT%20Featherwing/Online%20OpenWeatherMaps%20Weatherstation)
