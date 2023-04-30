@@ -23,6 +23,7 @@ Notable Quick Links:
 - ✔️ 16 key sequencer featherwing PCB
 - Full sized PC keyboard featherwing PCB (with numpad, media keys, and touchscreen TFT)
 - Automated chain driven stepper motor curtain with Alexa integration using IFTTT
+- LORA/RFM95 RC car using 100% Adafruit electronics
 - pneumatic mail slot dick puncher for unwelcomed door to door solicitors
 
 <!--
