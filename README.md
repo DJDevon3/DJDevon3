@@ -13,6 +13,7 @@ Notable Quick Links:
 
 ### [My OSHW Open Source PCB Designs](https://oshwlab.com/djdevon3/album/DJDevon3-Electronics)
 - [Bedibrator](https://github.com/DJDevon3/Bedibrator)
+- [Bleeding Rainbow](https://oshwlab.com/djdevon3/bleeding_rainbow_50)
 
 ### [My Printables Profile](https://www.printables.com/social/469699-treasuredev/about)
 
