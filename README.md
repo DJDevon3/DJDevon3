@@ -1,7 +1,7 @@
 ### YouTube Channel [Devon's Workshop](https://www.youtube.com/channel/UCx9Em9JRQ8XkFHKhqQ_Sr8w)
 
 [![Devon's Workshop on Youtube](https://user-images.githubusercontent.com/49322231/215252546-b0cefa5e-c59f-48cc-a0ec-a01161589979.png)](https://www.youtube.com/channel/UCx9Em9JRQ8XkFHKhqQ_Sr8w)
-### [My 3D Models Repo](https://github.com/DJDevon3/My_3D_Projects)
+
 ### [My Circuit Python Projects Repo](https://github.com/DJDevon3/My_Circuit_Python_Projects)
 ### [My Circuit Python Code Snippets](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Circuit%20Python%20Snippets)
 Notable Quick Links:
@@ -16,6 +16,7 @@ Notable Quick Links:
 - [Bedibrator](https://github.com/DJDevon3/Bedibrator)
 - [Bleeding Rainbow](https://oshwlab.com/djdevon3/bleeding_rainbow_50)
 
+### [My 3D Models Repo](https://github.com/DJDevon3/My_3D_Projects)
 ### [My Printables Profile](https://www.printables.com/social/469699-treasuredev/about)
 
 # My Circuit Python Project Todo List
