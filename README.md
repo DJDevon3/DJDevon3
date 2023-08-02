@@ -9,8 +9,8 @@ Notable Quick Links:
 - [LORA Mail Boombox](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Multi-Board%20Projects/LORA%20Mail%20Boombox)
 - [7-Segment Social Media Tracker](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Boards/espressif/Adafruit%20Feather%20ESP32-S2/7-segment%20Multiplexed%20Social)
 - [Halloween Dragon Mask](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Multi-Board%20Projects/Dragon%20Mask%20Halloween%202022)
-- [Simple Offline Weatherstation](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Boards/nrf/Adafruit%20Feather%20Bluefruit%20Sense/Adafruit%203.5%20TFT%20Featherwing/Simple_Offline_Weatherstation)
-- [Simple Online Weatherstation](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Boards/espressif/Adafruit%20Feather%20ESP32-S2/3.5%20TFT%20Featherwing/Online%20OpenWeatherMaps%20Weatherstation)
+- [MQTT Feather Weather Station](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Boards/espressif/Adafruit%20Feather%20ESP32-S3/3.5%20TFT%20Featherwing/Feather%20Weather%20MQTT)
+
 
 ### [My OSHW Open Source PCB Designs](https://oshwlab.com/djdevon3/album/DJDevon3-Electronics)
 - [Bedibrator](https://github.com/DJDevon3/Bedibrator)
@@ -20,12 +20,12 @@ Notable Quick Links:
 ### [My Printables Profile](https://www.printables.com/social/469699-treasuredev/about)
 
 # My Circuit Python Project Todo List
-- ✔️ RP2040-LORA 900mhz mailbox notification using ultrasonic sensor
-- 7" TFT (driven by ESP32-S3 feather) version of my offline/online weatherstation
-- ✔️ 7-segment display YouTube Subcriber Counter (original by Becky Stern)
-- ✔️ 16 key sequencer featherwing PCB
-- Full sized PC keyboard featherwing PCB (with numpad, media keys, and touchscreen TFT)
-- Automated chain driven stepper motor curtain with Alexa integration using IFTTT
+- ✔️ RP2040-LORA 900mhz outdoor mailbox notification system
+- 7" TFT version of my feather weather station
+- ✔️ 7-segment display YouTube Subcriber Counter (inspired by Becky Stern)
+- ✔️ 16 key 808 style MIDI sequencer
+- Full sized PC keyboard PCB (with numpad, media keys, and touchscreen TFT)
+- Automated curtain with Alexa integration
 - LORA/RFM95 RC car using 100% Adafruit electronics
 - pneumatic mail slot dick puncher for unwelcomed door to door solicitors
 
