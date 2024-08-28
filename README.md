@@ -4,12 +4,9 @@
 
 ### [My Circuit Python Projects Repo](https://github.com/DJDevon3/My_Circuit_Python_Projects)
 ### [My Circuit Python Code Snippets](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Circuit%20Python%20Snippets)
-Notable Quick Links:
-- [TR-Cowbell](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Boards/raspberrypi/Raspberry%20Pi%20Pico/TR%20Cowbell)
-- [LORA Mail Boombox](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Multi-Board%20Projects/LORA%20Mail%20Boombox)
-- [7-Segment Social Media Tracker](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Boards/espressif/Adafruit%20Feather%20ESP32-S2/7-segment%20Multiplexed%20Social)
-- [Halloween Dragon Mask](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Multi-Board%20Projects/Dragon%20Mask%20Halloween%202022)
-- [MQTT Feather Weather Station](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Boards/espressif/Adafruit%20Feather%20ESP32-S3/3.5%20TFT%20Featherwing/Feather%20Weather%20MQTT)
+
+### Circuit Python Online API Examples
+[![API_Examples](https://github.com/user-attachments/assets/4dda9dd7-54f2-45fd-a73e-109d137d0f9d)](https://github.com/DJDevon3/CircuitPython_Requests-Online-API-Examples)
 
 
 ### [My OSHW Open Source PCB Designs](https://oshwlab.com/djdevon3/album/DJDevon3-Electronics)
