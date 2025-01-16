@@ -3,6 +3,7 @@
 [![Devon's Workshop on Youtube](https://user-images.githubusercontent.com/49322231/215252546-b0cefa5e-c59f-48cc-a0ec-a01161589979.png)](https://www.youtube.com/channel/UCx9Em9JRQ8XkFHKhqQ_Sr8w)
 
 ### [My Circuit Python Projects Repo](https://github.com/DJDevon3/My_Circuit_Python_Projects)
+ [![My Projects](https://user-images.githubusercontent.com/49322231/235323187-4bcce094-0927-4b9e-b5cf-2646f0b6944d.jpg)](https://github.com/DJDevon3/My_Circuit_Python_Projects)
 ### [My Circuit Python Code Snippets](https://github.com/DJDevon3/My_Circuit_Python_Projects/tree/main/Circuit%20Python%20Snippets)
 
 ### Circuit Python Online API Examples
